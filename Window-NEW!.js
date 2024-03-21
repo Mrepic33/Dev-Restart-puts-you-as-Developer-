@@ -12,3 +12,12 @@ con.error.log --- set.DEV((((--'developer//development mode//mode-rep.go+enable'
                              if
                              port:"delete:chrome-exsention'clear' == False 
   else
+force=)delete == "delete:chrome-exsention'clear' ports"
+
+else
+
+"chrome://restart" 'or' "edge://reset/windows.cc.con.log"
+
+if
+
+run(stop == 'done/.'
